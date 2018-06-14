@@ -22,7 +22,7 @@ name                     : "Scott Kipp"
 description              : "A personal portfolio and snapshot site"
 url                      : "http://www.scottkipp.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "skippskipp/minimal-mistakes"
+repository               : "skippskipp/skippskipp.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Scott Kipp"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Product Manager, Developer, Dad"
   location         : "Toronto"
   email            : "scott.kipp@gmail.com"
   uri              :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/skippskipp"
+  github           : "skippskipp"
   gitlab           :
   google_plus      :
   keybase          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://twitter.com/ScottKipp"
+  twitter          : "ScottKipp"
   vine             :
   weibo            :
   xing             :
